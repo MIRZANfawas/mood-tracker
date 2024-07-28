@@ -1,0 +1,5 @@
+date,mood,rating,notes,sentiment
+2024-07-28,Happy,5,Excited hapiness,0.375
+2024-07-28,Happy,9,Happiness,0.7
+2024-07-28,Excited,9,Happiness,0.7
+2024-07-28,Sad and angry,10,sad,-0.5
